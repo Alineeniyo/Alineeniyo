@@ -1,12 +1,11 @@
 Hi there 👋
 My names are NIYOMUNGELI ALINE 
-Frontend Developer
+Frontend Developer and UX  UI Designer
 
-- 🔭 I’m currently working on Uhza 
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with your Project
-- - ⚡ Fun fact: I don't know to cook 
+  🔭 I’m currently working on Uhza 
+  🌱 I’m currently learning Flutter
+  👯 I’m looking to collaborate with you ...
+  ⚡ Fun fact: I don't know to cook 
 <!-- - 💬  -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns:  -->
