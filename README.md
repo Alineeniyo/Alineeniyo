@@ -2,7 +2,7 @@
       
       My names are NIYOMUNGELI ALINE 
       
-      Frontend Developer and UX  UI Designer
+      Frontend Developer and UI UX Designer
 
      🌱 I’m currently learning Flutter/Dart
 
